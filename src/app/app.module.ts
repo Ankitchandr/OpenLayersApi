@@ -3,6 +3,8 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { ZoomComponent } from './zoom/zoom.component';
 import { Zoom1Component } from './zoom1/zoom1.component';
+import { LengthComponent } from './length/length.component';
+import { MouseComponent } from './mouse/mouse.component';
 
 
 
@@ -11,6 +13,8 @@ import { Zoom1Component } from './zoom1/zoom1.component';
     AppComponent,
     ZoomComponent,
     Zoom1Component,
+    LengthComponent,
+    MouseComponent,
    
   ],
   imports: [

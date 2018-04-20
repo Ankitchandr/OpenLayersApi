@@ -1,0 +1,12 @@
+#map {
+  width:800px;
+  height:600px;
+}
+
+input{
+  background-color:yellow;
+}
+
+button{
+  background-color:orange;
+}
